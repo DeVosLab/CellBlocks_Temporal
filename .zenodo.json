@@ -1,0 +1,15 @@
+{
+    "description": "ImageJ/Fiji macro set dedicated to in silico cytometric analysis of time series. Flexible high content analysis to measure descriptive features about cell and nucleus as well as intracellular spots. Demands a nuclear channel to facilitate segmentation of individual nuclei and conditional expansion to segment cellular regions of influence. Spots are tracked using Trackmate and linked to Cellblocks data. ",
+    "creators": [
+        {
+            "orcid": "0000-0003-0357-7422",
+            "affiliation": "Laboratory of Cell Biology and Histology, University of Antwerp, Belgium - Antwerp Centre for Advanced Microscopy, Belgium - µNEURO Research Centre of Excellence, University of Antwerp, Antwerp, Belgium",
+            "name": "Verschuuren, Marlies"
+        },
+        {
+            "orcid": "0000-0003-0960-6781",
+            "affiliation": "Laboratory of Cell Biology and Histology, University of Antwerp, Belgium - Antwerp Centre for Advanced Microscopy, Belgium - µNEURO Research Centre of Excellence, University of Antwerp, Antwerp, Belgium",
+            "name": "De Vos, Winnok H."
+        }
+    ]
+}
